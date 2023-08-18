@@ -1,0 +1,30 @@
+body{
+	background:url("../img/registrofondo.jpg") ;
+	width: 80%;
+	margin: 0 auto;
+
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+nav a:hover{
+text-decoration: underline;
+text-shadow: 2 0 2px red, 0 0 8px white;
+}
+form{
+	border: 1px #000 solid;
+	box-shadow: 0 0 5px 3px;
+	padding: 30px;
+	width: 200px;
+}
+.blanco{
+	color: yellow;
+	font-size: 25px;
+}
+.btn{
+	width: 90px;
+	background: lightblue;
+	border-radius: 4px;
+
+}
